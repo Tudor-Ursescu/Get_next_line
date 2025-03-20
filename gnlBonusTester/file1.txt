@@ -1,0 +1,3 @@
+Hello, this is file 1.
+This is still file 1.
+You will exit file 1.
